@@ -3,7 +3,7 @@
 
 <!-- **manav169/manav169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Full Stack MERN Development.
 - 🌱 I’m currently learning MERN Stack.
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about React or anything related.
 <!-- - 📫 How to reach me: .
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 
