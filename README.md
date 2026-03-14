@@ -7,6 +7,10 @@
   Currently focused on <strong>React</strong> & <strong>Next.js</strong> ecosystems.
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
 </div>
 
 ---
@@ -17,6 +21,16 @@
 - 🌱 Currently learning **Node.js / Backend Development**
 - 💬 Ask me about **React, TypeScript, TailwindCSS, Next.js**
 - ⚡ Fun fact: I spend more time naming variables than writing code
+
+---
+
+## ⏱️ WakaTime Coding Stats
+
+<div align="center">
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mvfaah&theme=dark&hide_border=false&layout=compact)
+
+</div>
 
 ---
 
