@@ -1,4 +1,4 @@
-#About Me!
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Manav;React+Developer;Next.js+Developer;Frontend+Engineer"/>
 
 # 💻 Tech Stack:
