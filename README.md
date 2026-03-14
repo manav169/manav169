@@ -1,37 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Manav+👋;React+Developer;Next.js+Developer;Frontend+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Manav+👋;React+Developer;Next.js+Developer;Frontend+Engineer"/>
 
 <p>
   Frontend developer passionate about building fast, scalable, and beautiful web experiences.<br/>
   Currently focused on <strong>React</strong> & <strong>Next.js</strong> ecosystems.
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
 </div>
 
 ---
-
-## 🙋‍♂️ About Me
-
-- 🔭 Currently working on **React & Next.js projects**
-- 🌱 Currently learning **Node.js / Backend Development**
-- 💬 Ask me about **React, TypeScript, TailwindCSS, Next.js**
-- ⚡ Fun fact: I spend more time naming variables than writing code
-
----
-
-## ⏱️ WakaTime Coding Stats
-
-<div align="center">
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mvfaah&theme=dark&hide_border=false&layout=compact)
-
-</div>
-
 ---
 
 ## 💻 Tech Stack
@@ -71,11 +49,21 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=manav169&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=manav169&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manav169&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=manav169&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</td>
+<td>
+<img src="https://nirzak-streak-stats.vercel.app/?user=manav169&theme=dark&hide_border=false" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav169&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=700" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -95,7 +83,17 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/manav169/manav169/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/manav169/manav169/output/github-contribution-grid-snake.svg" width=100%/>
+
+
+</div>
+
+---
+
+## ⏱️ WakaTime Coding Stats
+
+<div align="center">
+<img src="https://wakatime.com/share/@mvfaah/1e5f4a56-548f-4d46-ba09-61063c4e723e.svg" width=100%/>
 
 </div>
 
