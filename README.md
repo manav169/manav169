@@ -66,8 +66,7 @@
 
 </div>
 
----
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -79,15 +78,15 @@
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/manav169/manav169/output/github-contribution-grid-snake.svg" width=100%/>
+</div> 
+-->
 
 
-</div>
 
 ---
+## 👾 Pac-Man Eating My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manav169/manav169/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manav169/manav169/output/pacman-contribution-graph.svg">
